@@ -1,0 +1,17 @@
+{
+  "name": "react-flux-concepts",
+  "version": "0.0.1",
+  "description": "Branches of this repo cover the concepts of react and flux in a hands on way",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jsx-loader": "^0.12.2",
+    "mcfly": "0.0.10",
+    "react": "^0.13.1",
+    "react-router": "^0.13.2"
+  }
+}
